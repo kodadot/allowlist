@@ -2,6 +2,9 @@
 ## 100 Rich Address (HOLDR) Wallet DOT
 ---
 
+- https://github.com/Pymmdrza/Rich-Address-Wallet/blob/main/DOT/README.md
+
+
 | * | ADDRESS(DOT) | BALANCE |
 | :---: |:--- | :---: |
 | 1 | `1unbkRdPEBQNo2Mk3Sew65RGo4jkgDqTFheCDbjvFe1zw4H` | 861244.9146711311 |
